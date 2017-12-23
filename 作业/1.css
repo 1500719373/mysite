@@ -1,0 +1,228 @@
+#daohang {
+    height: 64px;
+    background: #000;
+}
+
+#logobox {
+    /*    background: #AAA;*/
+    height: 64px;
+}
+
+#menubox {
+    /*    background: #EEE;*/
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    font-size: 16px;
+    height: 64px;
+    line-height: 64px;
+    color: white;
+    margin: 0;
+    padding: 0;
+    height: 64px;
+    text-align: right;
+}
+
+.menubtn {
+    width: 100px;
+    border-radius: 0;
+    height: 48px;
+}
+
+.mybtn {
+    color: white;
+    display: inline-block;
+    text-align: center;
+    width: 150px;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: 1000;
+    height: 64px;
+    line-height: 64px;
+}
+
+.mybtn:hover {
+    color: black;
+    background: white;
+}
+
+.biaoti {
+    text-align: center;
+    font-size: 32px;
+    color: #000;
+    padding-top: 32px;
+}
+
+.chuchuang {
+    /*    background: green*/
+    text-align: center;
+    padding: 2px;
+}
+
+.onpic {
+    position: absolute;
+    left: 0;
+    bottom: 18%;
+    width: 100%;
+    text-align: center;
+    opacity: 0;
+    background: rgba(204, 204, 204, 0.66);
+    height: 100px;
+}
+
+.onpic:hover {
+    opacity: 1;
+}
+
+
+.neikuang {
+    position: relative;
+    overflow: hidden"
+
+}
+
+
+
+#jianGe {
+    background: white;
+    height: 48px;
+    width: 1px;
+}
+
+.jianGe {
+    background: white;
+    height: 48px;
+    width: 1px;
+}
+
+.zhiShi {
+    background: white;
+    position: relative;
+}
+
+.biaoZhi {
+    border: 0.5px solid #ccc;
+    height: 24px;
+    width: 24px;
+    font-size: 30px;
+    background: white;
+    position: absolute;
+    text-align: center;
+    display: inline-block;
+    top: 40%;
+    left: 90%;
+    cursor: pointer;
+
+}
+
+.biaoZhi:hover {
+    color: white;
+    background: #2b98f8;
+}
+
+
+.youZhi {
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    top: -7px;
+}
+
+#xieMing {
+    height: 36px;
+    margin-top: 5px;
+    color:black;
+    cursor: pointer;
+}
+
+
+#xieMing:hover {
+    color: #2b98f8;
+}
+
+#jiaGe {
+    font-size: 16px;
+    font-weight: 800;
+
+}
+
+.lianXi {
+    display: inline-block;
+    text-align: center;
+    font-size: 16px;
+    height: 64px;
+    line-height: 64px;
+    color: white;
+    margin: 0;
+    padding: 0;
+    height: 64px;
+}
+
+#heiLianXi {
+    margin: 0;
+    padding: 0;
+}
+
+.lianXiFangShi {
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    width: 160px;
+    height: 64px;
+    font-weight: 600;
+    line-height: 64px;
+    color: white;
+    margin: 0;
+    padding: 0;
+    height: 64px;
+
+}
+
+.time {
+    text-align: center;
+    width: 160px;
+    height: 64px;
+    font-weight: 600;
+    line-height: 64px;
+    color: white;
+    margin: 0;
+    padding: 0;
+    height: 64px;
+}
+
+#moHu {
+position: absolute;
+    top: 40%;
+    right: 41%;
+}
+
+#yinYingHeZi {
+        display: inline-block;
+    text-align: center;
+    cursor: pointer;
+}
+
+.weiYeWenZi {
+    display: inline-block;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.weiYeWenZiFenLei {
+    font-size: 14px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.weiYeWenZiFenLei:hover {
+    color: #2b98f8;
+}
+
+#weiYeBianKuang {
+    margin: 0;
+    padding: 0;
+}

@@ -226,3 +226,55 @@ position: absolute;
     margin: 0;
     padding: 0;
 }
+
+#tuanGou {
+    margin: 0;
+    padding: 0;
+}
+
+.caiGou {
+    display: inline-block;
+    text-align: center;
+    font-size: 14px;
+    height: 64px;
+    line-height: 64px;
+    color: black;
+    margin: 0;
+    padding: 0;
+    height: 64px;
+}
+
+.caiGouFangShi {
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    width: 160px;
+    height: 64px;
+    font-weight: 600;
+    line-height: 64px;
+    color: black;
+    margin: 0;
+    padding: 0;
+    height: 64px;
+}
+
+.caiGouKong {
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    width: 80px;
+    height: 64px;
+    font-weight: 600;
+    line-height: 64px;
+    color: black;
+    margin: 0;
+    padding: 0;
+    height: 64px;
+}
+
+#shangBiao {
+    text-align: center;
+    font-size: 8px;
+    position: relative;
+    top: 8px;
+}

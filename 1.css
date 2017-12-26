@@ -62,7 +62,7 @@
 .onpic {
     position: absolute;
     left: 0;
-    bottom: 18%;
+    bottom: 60px;
     width: 100%;
     text-align: center;
     opacity: 0;
@@ -109,8 +109,6 @@
     position: absolute;
     text-align: center;
     display: inline-block;
-    top: 40%;
-    left: 90%;
     cursor: pointer;
 
 }
@@ -277,4 +275,56 @@ position: absolute;
     font-size: 8px;
     position: relative;
     top: 8px;
+}
+
+#youJianTou {
+    margin: 0;
+    padding: 0;
+    margin-top:25%;
+}
+
+#youJianZuo {
+
+}
+
+#zuoJianTou {
+     margin: 0;
+    padding: 0;
+    margin-top:25%;
+}
+
+.biaoZhiYou {
+        border: 0.5px solid #ccc;
+    height: 24px;
+    width: 24px;
+    font-size: 30px;
+    background: white;
+    position: absolute;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    left: 0;
+
+}
+
+.biaoZhiZuo {
+    border: 0.5px solid #ccc;
+    height: 24px;
+    width: 24px;
+    font-size: 30px;
+    background: white;
+    position: absolute;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    right: 0
+
+}
+.biaoZhiYou:hover {
+    color: white;
+    background: #2b98f8;
+}
+.biaoZhiZuo:hover {
+    color: white;
+    background: #2b98f8;
 }
